@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Redeemer 👋
 
-<!--
-**redeemer743/redeemer743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent cybersecurity researcher focused on offensive security, penetration testing, and web application security.
 
-Here are some ideas to get you started:
+### 🛡️ Core Focus
+- **Offensive Security:** Web Application Pentesting, Vulnerability Assessment, Network Scanning
+- **Tools & Tech:** Kali Linux, Burp Suite, Wireshark, Metasploit, Nmap, Python
+- **Active Platforms:** TryHackMe | Hack The Box
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- [Penetration Test & Remediation Report](./PenTest-Capstone-Report) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
+
+---
+📫 **Connect with me:** [LinkedIn Link]
