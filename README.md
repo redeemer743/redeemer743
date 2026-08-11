@@ -8,7 +8,7 @@ I'm an independent cybersecurity researcher focused on offensive security, penet
 - **Active Platforms:** TryHackMe | Cisco Network Academy
 
 ### 📂 Featured Projects
-- [Penetration Test & Remediation Report][(./PenTest-Capstone-Report)](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
+- [Penetration Test & Remediation Report](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
 
 ---
 📫 **Connect with me:** [LinkedIn Link]
