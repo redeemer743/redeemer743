@@ -11,7 +11,7 @@ I'm an independent cybersecurity researcher focused on offensive security, penet
 - [Penetration Test & Remediation Report](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
 
 ### 📂 Vulnhub Projects
-- [Mr. Robot CTF Walkthrough](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - Vulnerable lab walkthrough
+- [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - Vulnerable lab walkthrough
 - [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 - [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 - [Kioptrix: Level 3 ](#)- Capture the Flag Walkthrough
