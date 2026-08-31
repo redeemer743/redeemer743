@@ -7,7 +7,7 @@ I'm an independent cybersecurity researcher focused on offensive security, penet
 - **Tools & Tech:** Kali Linux, Burp Suite, Wireshark, Metasploit, Nmap, Python
 - **Active Platforms:** TryHackMe | Cisco Network Academy | Over the wire
 
-### 📂 Featured Projects
+### 📂 Cisco Ethical Hacker Project
 - [Penetration Test & Remediation Report](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
 
 ### 📂 Vulnhub Projects
