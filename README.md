@@ -14,6 +14,6 @@ I'm an independent cybersecurity researcher focused on offensive security, penet
 - [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - Vulnerable lab walkthrough
 - [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 - [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
-- [Kioptrix: Level 3 ](https://github.com/redeemer743/Kioptrix-Level-3-Capture-the-Flag-Writeup))- Capture the Flag Walkthrough
+- [Kioptrix: Level 3 ](https://github.com/redeemer743/Kioptrix-Level-3-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
