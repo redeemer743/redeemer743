@@ -16,7 +16,7 @@ I'm an independent cybersecurity researcher focused on offensive security, penet
 - [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 - [Kioptrix: Level 3 ](https://github.com/redeemer743/Kioptrix-Level-3-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 
-- ### 📂 SOC Projects
+  ### 📂 SOC Projects
 - [Isolated Virtual Network & Connectivity Verification](https://github.com/redeemer743/Isolated-Virtual-Network-Connectivity-Verification) - Connectivity Report
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
