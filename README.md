@@ -1,6 +1,6 @@
 # Hi, I'm Redeemer 👋
 
-I'm an independent cybersecurity researcher focused on offensive security, penetration testing, and web application security.
+I'm an independent cybersecurity researcher focused on offensive and defensive security.
 
 ### 🛡️ Core Focus
 - **Offensive Security:** Web Application Pentesting, Vulnerability Assessment, Network Scanning
