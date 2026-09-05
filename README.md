@@ -19,5 +19,6 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
   ### 📂 SOC Projects
 - [Isolated Virtual Network & Connectivity Verification](https://github.com/redeemer743/Isolated-Virtual-Network-Connectivity-Verification) - Connectivity Report
 - [Network Service Discovery](https://github.com/redeemer743/Network-Service-Discovery) - Service Discovery Report
+- [Packet Capture Via Wireshark ](#) - Packet Capture Report
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
