@@ -4,7 +4,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 
 ### 🛡️ Core Focus
 - **Offensive Security:** Pentesting & Vulnerability Assessment.
-- **Tools & Tech:** Kali Linux, Wireshark, Metasploit, Nmap.
+- **Tools & Tech:** Kali Linux, Wireshark, Metasploit, Nmap,Dirb,Gobuster,Nikto,OpenVAS,Nessus.
 - **Active Platforms:** TryHackMe | Cisco Network Academy | Over the wire
 
 ### 📂 Cisco Ethical Hacker Project
