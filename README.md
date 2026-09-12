@@ -9,10 +9,10 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 
 ### 📂 Offensive Security Project
 - [Cisco Ethical Hacker Final Capstone Activity ](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full Report
-- [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - Capture the Flag Walkthrough
-- [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
-- [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
-- [Kioptrix: Level 3 ](https://github.com/redeemer743/Kioptrix-Level-3-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
+- [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - CTF Walkthrough
+- [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)-  CTF Walkthrough
+- [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)-  CTF Walkthrough 
+- [Kioptrix: Level 3 ](https://github.com/redeemer743/Kioptrix-Level-3-Capture-the-Flag-Writeup)-  CTF Walkthrough
 
   ### 📂 Defensive Security Projects
 - [Isolated Virtual Network & Connectivity Verification](https://github.com/redeemer743/Isolated-Virtual-Network-Connectivity-Verification) - Connectivity Report
