@@ -8,7 +8,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - **Active Platforms:** TryHackMe | Cisco Network Academy | Over the wire
 
 ### 📂 Offensive Security Project
-- [Penetration Test & Remediation Report](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full assessment covering SQLi, SMB enumeration, directory listing, and PCAP traffic analysis.
+- [Cisco Ethical Hacker Capstone ](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full Report
 - [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - Vulnerable lab walkthrough
 - [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
 - [Kioptrix: Level 2 ](https://github.com/redeemer743/Kioptrix-Level-2-Capture-the-Flag-Writeup)- Capture the Flag Walkthrough
