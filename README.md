@@ -7,7 +7,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - **Tools & Tech:** Kali Linux, Wireshark, Metasploit, Nmap,Dirb,Gobuster,Nikto,OpenVAS,Nessus.
 - **Active Platforms:** TryHackMe | Cisco Network Academy | Over the wire
 
-### 📂 Offensive Security Project
+### 📂 Offensive Security Projects
 - [Cisco Ethical Hacker Capstone Activity ](https://github.com/redeemer743/Cybersecurity-Penetration-Test-Remediation-Report-Capstone-Assessment) - Full Report
 - [Mr. Robot ](https://github.com/redeemer743/Mr.-Robot-CTF-Walkthrough) - CTF Walkthrough
 - [Kioptrix: Level 1 ](https://github.com/redeemer743/Kioptrix-Level-1-Capture-the-Flag-Writeup)-  CTF Walkthrough
