@@ -21,7 +21,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - [Log Analysis (Windows) ](https://github.com/redeemer743/Authentication-Auditing-Security-Log-Analysis-Windows) - Authentication Auditing & Security Log Analysis Report
 - [Forensic Event Selection ](https://github.com/redeemer743/Windows-Log-Auditing-Forensic-Event-Selection) -  Forensic Event Selection Report
 - [Linux Mint Authentication Log Analysis  ](https://github.com/redeemer743/Linux-Authentication-Log-Analysis-Timeline-Reconstruction) -  Lab Report
-- [Web/HTTP Log Inspection](#) - Web Log Analysis Report
+- [Web/HTTP Log Inspection](https://github.com/redeemer743/Web-HTTP-Log-Inspection) - Web Log Analysis Report
 
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
