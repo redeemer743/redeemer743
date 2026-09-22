@@ -22,7 +22,8 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - [Forensic Event Selection ](https://github.com/redeemer743/Windows-Log-Auditing-Forensic-Event-Selection) -  Forensic Event Selection Report
 - [Linux Mint Authentication Log Analysis  ](https://github.com/redeemer743/Linux-Authentication-Log-Analysis-Timeline-Reconstruction) -  Lab Report
 - [Web/HTTP Log Inspection](https://github.com/redeemer743/Web-HTTP-Log-Inspection) - Web Log Analysis Report
-- [Wazuh Linux Agent Deployment](https://github.com/redeemer743/Wazuh-Endpoint-Linux-Agent-Installation) - Wazuh Report
+- [Wazuh Linux Agent Deployment](https://github.com/redeemer743/Wazuh-Endpoint-Linux-Agent-Installation) - Wazuh Linux Report
+- [Wazuh Windows Agent Deployment](#) - Wazuh Windows Report
 
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
