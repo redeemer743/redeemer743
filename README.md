@@ -24,7 +24,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - [Web/HTTP Log Inspection](https://github.com/redeemer743/Web-HTTP-Log-Inspection) - Web Log Analysis Report
 - [Wazuh Linux Agent Deployment](https://github.com/redeemer743/Wazuh-Endpoint-Linux-Agent-Installation) - Wazuh Linux Report
 - [Wazuh Windows Agent Deployment](https://github.com/redeemer743/Windows-Wazuh-Agent) - Wazuh Windows Report
-- [Wazuh SIEM Endpoint Telemetry Generation](#) - Endpoint Telemetry Generation Report
+- [Wazuh SIEM Endpoint Telemetry Generation](https://github.com/redeemer743/Endpoint-Telemetry-Generation-Ingestion-and-Source-Endpoint-Identification-in-Wazuh-SIEM) - Endpoint Telemetry Generation Report
 
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
