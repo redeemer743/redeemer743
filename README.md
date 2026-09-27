@@ -28,6 +28,7 @@ I'm an independent cybersecurity researcher focused on offensive and defensive s
 - [Threat Hunting and Telemetry Analysis Using Wazuh SIEM Dashboard Filters](https://github.com/redeemer743/Threat-Hunting-and-Telemetry-Analysis-Using-Wazuh-SIEM-Dashboard-Filters) - Telemetry Analysis Report
 - [File Integrity Monitoring Wazuh SIEM](https://github.com/redeemer743/File-Integrity-Monitoring-FIM-with-Wazuh-SIEM-) - File Integrity Report
 - [Wazuh Alert Triage](https://github.com/redeemer743/Wazuh-Alert-Triage-Exercise) - Wazuh Alert Triage Exercise
+- [Controlled-Authentication-Failure-Simulation-Telemetry-Investigation](https://github.com/redeemer743/Controlled-Authentication-Failure-Simulation-Telemetry-Investigation) - Controlled-Authentication-Failure Report
 
 ---
 📫 **Connect with me:** [[LinkedIn Link](https://www.linkedin.com/in/redeemer-kekeli-yao-axame-a8920325b/)]
